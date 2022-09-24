@@ -1,5 +1,5 @@
-CREATE DATABASE Scrollatravel2;
-USE Scrollatravel2;
+CREATE DATABASE Scrollatravel;
+USE Scrollatravel;
 CREATE TABLE IF NOT EXISTS Hotel (
 Hotel_ID INT NOT NULL,
 HotelName VARCHAR(100) NOT NULL,
