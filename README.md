@@ -30,4 +30,5 @@
 7. สามารถค้นหาโรงแรมและตรวจสอบห้องว่างได้แบบทัน
 <br>
 logical DB Design (Table Design)
+
 ![image](Logical_DB_Design.png)
