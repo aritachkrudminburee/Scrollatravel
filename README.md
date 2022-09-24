@@ -30,4 +30,4 @@
 7. สามารถค้นหาโรงแรมและตรวจสอบห้องว่างได้แบบทัน
 <br>
 logical DB Design (Table Design)
-![](https://github.com/aritachkrudminburee/Scrollatravel/edit/main/Logical_DB_Design.png)
+![](Logical_DB_Design.png)
